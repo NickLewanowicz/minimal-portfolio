@@ -1,1 +1,10 @@
 @import '~antd/dist/antd.css';
+
+body {
+  background-color: #f0f0f0
+}
+
+.my-header {
+  background: rgb(30,17,254);
+  background: linear-gradient(90deg, rgba(30,17,254,1) 0%, rgba(72,63,236,1) 100%);
+}
