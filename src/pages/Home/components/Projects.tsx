@@ -8,7 +8,7 @@ const Projects = () => {
   return (
     <div className='flex flex-column w-100-l'>
         <p className='f3 b'>Things I worked on:</p>
-        <ul className='list pl0 br3 ba b--black-10 shadow-hover'>
+        <ul className='list pl0 br3'>
           <Project/>
           <Project/>
           <Project/>

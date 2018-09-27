@@ -6,9 +6,9 @@ import Project from './Project';
 
 const Experience = () => {
   return (
-    <div className='flex flex-column w-100-l'>
+    <div className='flex flex-column w-100-l mt5-ns'>
         <p className='f3 b'>Places I have worked:</p>
-        <ul className='list pl0 br3 ba b--black-10 shadow-hover'>
+        <ul className='list pl0 br3'>
           <Project/>
           <Project/>
           <Project/>
