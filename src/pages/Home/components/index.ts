@@ -1,4 +1,5 @@
+import Experience from './Experience';
 import Header from './Header';
 import Projects from './Projects';
 
-export {Header, Projects};
+export {Experience, Header, Projects};
