@@ -1,10 +1,16 @@
 import * as React from 'react'
-import {Header} from './components'
+import {Experience, Header, Projects} from './components'
 
 const Home = () => {
   return (
-    <div>
+    <div className="center flex flex-row-ns flex-column sans-serif">
+      <div className='mh3 justify-center'>
       <Header/>
+      <Projects/>
+      </div>
+      <div className='mh3 justify-center'>
+      <Experience/>
+      </div>
     </div>
   )
 } 
