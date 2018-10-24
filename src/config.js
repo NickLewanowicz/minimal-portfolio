@@ -5,6 +5,12 @@ const data = {
     image: "https://avatars1.githubusercontent.com/u/15663269?s=460&v=4",
     name: "Nicholas Lewanowicz",
     title: "Software Engineer",
+  },
+  projects: {
+
+  },
+  work: {
+
   }
 }
 
